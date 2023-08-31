@@ -1,0 +1,41 @@
+
+ion-grid {
+    background-color: #101010;
+    right: 1px;
+    left: 1px;
+    top: 1px;
+    bottom: 1px;
+  
+}
+
+.header{
+    --background: #FFB800;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 18px;
+    text-align: center;
+    
+
+}
+
+.footer{
+    --background: #FFB800;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.boton{
+    --background: #FFB800;
+    font-size: 15px;
+   
+
+}
+
+.texto{
+    font-size: 18px;
+    text-align: center;
+    
+
+}
